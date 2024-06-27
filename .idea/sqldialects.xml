@@ -7,5 +7,6 @@
     <file url="file://$PROJECT_DIR$/../../baidu/BaiduNetdiskDownload/day03-微服务01/hm-trade.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../../baidu/BaiduNetdiskDownload/day03-微服务01/hm-user.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../../baidu/BaiduNetdiskDownload/day03-微服务01/nacos.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../../baidu/BaiduNetdiskDownload/day05微服务/seata-tc.sql" dialect="MySQL" />
   </component>
 </project>
